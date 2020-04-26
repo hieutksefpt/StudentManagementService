@@ -1,0 +1,47 @@
+header{
+    border-bottom: solid 1px #000\9;
+    padding: 17px 0;
+}
+.navbar-default{
+    border: none;
+    background: none;
+}
+/*.navbar{
+    border-radius: 0;
+    margin: 0;
+}*/
+.navbar-brand{
+    padding: 0;
+    height: 103px;
+}
+.navbar-default .navbar-nav >li >a{
+    color: #fe9b00;
+    font-family: arial;
+    font-weight: bold;
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.navbar-nav {
+    padding-top: 30px;
+}
+.navbar-toggle{
+    margin-top:  32px;
+}
+.fixdisplay{
+    padding: 20px 0;
+    border-bottom: solid 1px #000\9; 
+}
+h4{
+    color: #090909;
+    font-weight: bold;
+    font-family: arial;
+    background: url("../image/arrow.jpg") no-repeat left top -3px;
+    padding-left: 30px; 
+    border-bottom: solid 6px #090909;
+    padding-bottom: 5px ;
+}
+#footer{
+    clear: both;
+    background-color: #666;
+    padding: 1em;
+}
